@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/jsonx/__init__.py
+src/jsonx/modulo.py
+src/jsonx.egg-info/PKG-INFO
+src/jsonx.egg-info/SOURCES.txt
+src/jsonx.egg-info/dependency_links.txt
+src/jsonx.egg-info/top_level.txt
