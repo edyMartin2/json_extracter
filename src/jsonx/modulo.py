@@ -15,7 +15,7 @@ def split_json_by_bracket(text, bracket_open):
         return open_text_clean[:key_close_bracket] + open_text_clean[key_close_bracket]
 
 
-def json_parse(txt):
+def json_extract(txt):
     txt_2 = str(txt.replace("\n", ""))
     text = re.sub(r'\s+', '', txt_2)
 
